@@ -1,4 +1,4 @@
 package ma.sqli.tests.cloudinfrastructure;
 
-public class CreateStoreException extends Throwable {
+public class CreateStoreException extends RuntimeException {
 }

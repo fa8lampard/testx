@@ -1,4 +1,4 @@
 package ma.sqli.tests.cloudinfrastructure;
 
-public class MachineStateException extends Throwable {
+public class MachineStateException extends RuntimeException {
 }
